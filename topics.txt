@@ -1,0 +1,22 @@
+the followings are the topics which cane be discussed in this tutorial
+
+1. basic concepts like variable declaration
+2. data types
+3.conditional statements/ control structures
+4. loops
+5. cpp operators
+5. functions
+6.arrays vs all nested arrays and multidimensional arrays
+7. pointers
+8. dynamic memory
+9. classes and objects
+10. inheritance
+11.polymophism
+12.exception handling
+13 file handling
+14. multithreading
+15.abstraction
+16. template programming
+17.encapsulations
+18. operator overloading
+
